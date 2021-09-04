@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightgrey;
+  color: whitesmoke;
+}
+
+.button {
+  border-radius: 2rem;
+  background-color: black;
+  height: fit-content;
+  padding: 20px;
+  margin: 15px;
+}
+.img {
+  border-radius: 2rem;
+  height: 100px;
+  /* width: 150px; */
+}
+.title {
+  color: whitesmoke;
+}
